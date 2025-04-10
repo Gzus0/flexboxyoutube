@@ -3,30 +3,40 @@
     padding: 0;
     margin: 0;
 }
-.navegador{
 
+.navegador{
+background: #000;
+color: white;
 }
 .menu{
-
+    background: #494949;
+    height: 40px;
 }
 .parrilla{
-    
+    background: #b89292;
+    height: 40px;
 }
 .etiquetas{
-
+    background: #a87272;
+    height: 40px;
 }
 .videos1{
-
+    background: #a56262;
+    height: 40px;
 }
 .shorts1{
-
+    background: #bd5e5e;
+    height: 40px;
 }
 .videos2{
-
+    background: #db6262;
+    height: 40px;
 }
 .shorts2{
-
+    background: #e45050;
+    height: 40px;
 }
 .videos3{
-
+    background: #ee2424;
+    height: 100%;
 }
